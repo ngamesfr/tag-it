@@ -587,5 +587,5 @@
         }
 
     });
-})(jQuery);
+})(require('jquery'));
 
