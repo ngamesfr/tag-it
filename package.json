@@ -1,0 +1,8 @@
+{
+  "name": "tag-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nbraquart/tag-it.git",
+  "author": "Nicolas Braquart <nicolas.braquart@gmail.com>",
+  "license": "MIT"
+}
